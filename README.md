@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Engr.Hamza</h1>
+<h1 align="center">Hi 👋, I'm Engr Muhammad Hamza </h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 <img align="right" alt="coding" width="450" src="https://miro.medium.com/max/720/0*7Q3yvSIv_t0ioJ-Z.gif">
